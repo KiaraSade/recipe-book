@@ -1,0 +1,10 @@
+[Spaghetti Bolognese]
+Ingredients:
+- 400g spaghetti
+- 300g ground beef
+- 1 onion
+- 2 cloves garlic
+Instructions:
+1. Cook spaghetti according to package instructions.
+2. In a pan, brown the ground beef with chopped onion and garlic.
+3. Mix cooked spaghetti with the beef mixture.
